@@ -1,0 +1,8 @@
+ <service>
+      <id>server</id>
+      <name>server</name>
+      <description>server</description>
+      <executable>C:\Program Files\Java\jre1.8.0_281\bin\java</executable>
+      <arguments>-jar "demo.jar"</arguments>
+      <logmode>rotate</logmode>
+ </service>
